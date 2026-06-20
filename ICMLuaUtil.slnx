@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ICMLuaUtil.vcxproj" Id="89319250-4c7a-4da3-a4bc-aa1ee80a1b9d" />
+</Solution>
